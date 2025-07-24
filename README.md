@@ -43,7 +43,7 @@
 
 ## 📬 Connect With Me
 
-* 💌 [Email](gantelasaisharanya@gmail.com)
+* 💌 [Email](mailto:gantelasaisharanya@gmail.com)
 * 🌐 [LinkedIn](https://linkedin.com/in/gantela-sai-sharanya-175277255
 
 
