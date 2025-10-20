@@ -32,7 +32,8 @@
 | 🛡️ [Fake Website Detector](https://github.com/sharanya330/fake-website-detector) | Detects phishing sites and warns users         | JavaScript, Safe Browsing API |
 | 🧾 [Resume Creator](https://github.com/sharanya330resume-creator)                | AI-powered dynamic resume assistant            | React, Node.js                |
 | 🛣️ [SagarSaathi](https://github.com/sharanya330/sagarsaathi) | High-trust platform for long-distance travel, focused on driver vetting and real-time safety tracking. | **MERN Stack** (MongoDB, Express, React, Node.js), **GeoJSON**, **Socket.IO** |
-| 🤖 **Android Keystroke Logger** | Measures and analyzes user typing patterns for behavioral biometrics and security control. | Kotlin, Android SDK, Keystroke Dynamics, JSON |
+| 🤖 [Android Server Control](https://github.com/sharanya330/android-server-control) | Measures and analyzes user typing patterns for behavioral biometrics and security control. | Kotlin, Android SDK, Keystroke Dynamics, JSON |
+
 ---
 
 ## 📊 GitHub Stats
